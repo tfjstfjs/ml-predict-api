@@ -1,8 +1,0 @@
-services:
-  app:
-    build: .
-    container_name: springboot-api
-    ports:
-      - "443:8080"
-
-    
